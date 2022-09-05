@@ -1,2 +1,4 @@
 michelly
 Trabaja en nativo digital
+esta estudiando git
+salir de vim
