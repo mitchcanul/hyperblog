@@ -32,11 +32,18 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
-container h1{
+#container h1{
     font-size: 20px;
 }
 #post
 {
     background: white;
     padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: white;
+    padding: 00.5em;
+    text-align: center;
 }
